@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RyloRiz
+- 👀 I’m interested in web dev
+- 🌱 I’m currently learning NextJS
