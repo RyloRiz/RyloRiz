@@ -1,3 +1,5 @@
+<div align="center">
+  
 # Hi, I'm Rizwaan 👋
 
 📍 At **UCLA** studying Computer Science
@@ -10,6 +12,10 @@
 [![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)](#)
 
 > Full-stack by trade, iOS/macOS by obsession. I build small tools that fix specific annoyances.
+> 
+</div>
+
+___
 
 ## 🔭 Recently built
 
